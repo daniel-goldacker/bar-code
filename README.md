@@ -2,7 +2,7 @@
 
 The project bar-code implemente of an API in Java using the Quarkus framework of a QR Code generator that uses the zxing library to create and encode the QR Code, and returns a BufferedImage that represents the code generated as an API response.
 
-**Obs I:**The QR Code (Quick Response Code) is a type of two-dimensional barcode that can be read by a QR Code reader or by a smartphone application with a camera.
+**Obs I:** The QR Code (Quick Response Code) is a type of two-dimensional barcode that can be read by a QR Code reader or by a smartphone application with a camera.
 
 **Obs II:** This project uses Quarkus, the Supersonic Subatomic Java Framework. If you want to learn more about Quarkus, please visit its website: https://quarkus.io/.
 
